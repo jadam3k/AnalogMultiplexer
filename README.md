@@ -1,5 +1,6 @@
 # Analog Multiplexer Project
-
+## 
+They told me not to add screenshots from the basket
 This is a simple **analog multiplexer** I put together.  
 It allows me to connect multiple analog components, like sensors, to a single input on a microcontroller.  
 
