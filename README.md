@@ -12,13 +12,13 @@ I built this project mainly as a **learning exercise** to get more comfortable w
 Here is the list of components used in this project.  
 Where possible, I have added links to datasheets for reference.
 
-| ID | Component Name             | Description                                 | Quantity | Datasheet / Link |
-| -- | -------------------------- | ------------------------------------------- | -------- | ---------------- |
-| 1  | 2-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        | [Link](https://www.mouser.com/ProductDetail/571-254-2X1?qs=sGAEpiMZZMtKAwz4oB5cEo8I%2FbL0OeGz) |
-| 2  | 8-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        | [Link](https://www.mouser.com/ProductDetail/571-254-8X1?qs=sGAEpiMZZMtKAwz4oB5cEo8I%2FbL0OeGz) |
-| 3  | 4-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        | [Link](https://www.mouser.com/ProductDetail/571-254-4X1?qs=sGAEpiMZZMtKAwz4oB5cEo8I%2FbL0OeGz) |
-| 4  | CD74HC4052E                | 2-channel 4:1 analog multiplexer IC         | 1        | [Datasheet](https://www.ti.com/lit/ds/symlink/cd74hc4052.pdf) |
-| 5  | DW127R-22-06-34            | 6-pin wire-to-board connector               | 1        | [Link](https://www.dealextreme.com/p/dw127r-wire-to-board-connector-6-pin-142327) |
+| ID | Component Name             | Description                                 | Quantity | 
+| -- | -------------------------- | ------------------------------------------- | -------- | 
+| 1  | 2-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        | 
+| 2  | 8-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        | 
+| 3  | 4-pin 2.54mm Female Header | Single row, 2.54 mm pitch female PCB header | 1        |
+| 4  | CD74HC4052E                | 2-channel 4:1 analog multiplexer IC         | 1        | 
+| 5  | DW127R-22-06-34            | 6-pin wire-to-board connector               | 1        | 
 
 ---
 
