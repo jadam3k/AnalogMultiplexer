@@ -1,4 +1,4 @@
-Analog Multiplexer Project
-I present an analog multiplexer designed to use only a single input on a microcontroller while still supporting many analog components, such as sensors.
+# Analog Multiplexer Project
 
-The project is fairly simple — I created it because I’m learning this topic on a daily basis.
+This is a simple **analog multiplexer** I put together. It lets me connect a bunch of analog components, like sensors, to just one input on a microcontroller.  
+I made it mostly as a learning exercise while getting more comfortable with how multiplexers work in real life.
